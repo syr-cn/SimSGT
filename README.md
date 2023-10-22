@@ -8,9 +8,13 @@ Authors: Zhiyuan Liu, Yaorui Shi, An Zhang, Enzhi Zhang, Kenji Kawaguchi, Xiang 
 This repository contains the official code impementation for the paper **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**.
 
 
-![framework](./figures/framework.jpg)
+<p align="center">
+  <img src="./figures/framework.jpg" width="600">
+</p>
 
-**<center>Overview of the SimSGT's framework</center>**
+<p align="center">
+  <b>Overview of the SimSGT's framework</b>
+</p>
 
 ## Citation
 
