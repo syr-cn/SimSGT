@@ -9,7 +9,7 @@ This repository contains the official code impementation for the paper **Rethink
 
 
 <p align="center">
-  <img src="./figures/framework.jpg" width="600">
+  <img src="./figures/framework.jpg" width="1000">
 </p>
 
 <p align="center">
