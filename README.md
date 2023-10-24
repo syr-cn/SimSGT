@@ -1,6 +1,6 @@
 # Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules
 
-NeurIPS 2023 poster \[[paper](https://openreview.net/forum?id=fWLf8DV0fI)\]
+NeurIPS 2023 poster \[[paper](https://arxiv.org/abs/2310.14753)\]
 
 Authors: Zhiyuan Liu, Yaorui Shi, An Zhang, Enzhi Zhang, Kenji Kawaguchi, Xiang Wang, Tat-Seng Chua
 
