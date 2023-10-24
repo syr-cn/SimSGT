@@ -21,8 +21,7 @@ This repository contains the official code impementation for the paper **Rethink
 If you use our codes or checkpoints, please cite our paper:
 
 ```bibtex
-@inproceedings{
-    liu2023rethinking,
+@inproceedings{liu2023rethinking,
     title={Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules},
     author={Liu, Zhiyuan and Shi, Yaorui and Zhang, An and Zhang, Enzhi and Kawaguchi, Kenji and Wang, Xiang and Chua, Tat-Seng},
     booktitle={NeurIPS},
