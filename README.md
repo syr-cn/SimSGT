@@ -5,7 +5,7 @@ NeurIPS 2023 poster \[[paper](https://arxiv.org/abs/2310.14753)\]
 Authors: Zhiyuan Liu, Yaorui Shi, An Zhang, Enzhi Zhang, Kenji Kawaguchi, Xiang Wang, Tat-Seng Chua
 
 
-This repository contains the official code impementation for the paper **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**.
+This repository contains the official code implementation for the paper **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**.
 
 
 <p align="center">
